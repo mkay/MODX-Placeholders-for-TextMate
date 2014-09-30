@@ -10,9 +10,7 @@ ___
 
 * *"Download ZIP"*
 * unzip
-* rename directory to *"MODX Placeholders.tmbundle"*
-* double click to install
-* done
+* double click *"MODX Placeholders.tmbundle"* to install
 ___
   
 ### Usage:
