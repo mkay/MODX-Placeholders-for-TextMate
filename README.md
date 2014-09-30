@@ -11,6 +11,7 @@ ___
 * *"Download ZIP"*
 * unzip
 * double click *"MODX Placeholders.tmbundle"* to install
+
 ___
   
 ### Usage:
@@ -22,6 +23,7 @@ ___
 ``++ and TAB`` for a list of ``[[++system_settings]]``
 
 ``% and TAB`` for a list of ``[[%lexicon_strings]]``
+
 ___
 
 ### Hint:
